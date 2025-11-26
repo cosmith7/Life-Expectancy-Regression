@@ -28,7 +28,7 @@ The model demonstrates:
 life-expectancy-regression/
 │
 ├── README.md
-├── life_expectancy_regression.ipynb
+├── life_expectancy_regression-mlproject.ipynb
 ├── Life Expectancy Data.csv
 │
 ├── results/
