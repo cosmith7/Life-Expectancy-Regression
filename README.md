@@ -91,14 +91,6 @@ Saved in the results/ folder:
 - learning_curve.png
 - residual_plot.png
 
-## Future Improvements
-
-- Add nonlinear models (Random Forests, XGBoost, Neural Networks)
-- Use full feature set instead of top three predictors
-- Test regularization (Lasso, Ridge, Elastic Net)
-- Build an interactive Streamlit dashboard for predictions
-- Perform time-series or country-specific modeling
-
 ## License
 
-This project is for educational and research purposes as part of the UMD Machine Learning for the Life Sciences course (BSCI238I).
+This project is for educational purposes as part of the UMD Machine Learning for the Life Sciences course (BSCI238I).
