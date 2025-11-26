@@ -24,6 +24,7 @@ The model demonstrates:
 
 ## Repository Structure
 
+```text
 life-expectancy-regression/
 │
 ├── README.md
@@ -31,7 +32,7 @@ life-expectancy-regression/
 │ └── life_expectancy_regression.ipynb
 │
 ├── data/
-│ └── Life Expectancy Data.csv # (Optional or add to .gitignore)
+│ └── Life Expectancy Data.csv
 │
 ├── results/
 │ ├── correlation_matrix.png
@@ -39,6 +40,7 @@ life-expectancy-regression/
 │ └── residual_plot.png
 │
 └── requirements.txt
+```
 
 ## Methodology
 Data Preparation
@@ -91,21 +93,6 @@ Saved in the results/ folder:
 - correlation_matrix.png
 - learning_curve.png
 - residual_plot.png
-
-These figures illustrate dataset relationships, model learning behavior, and prediction error patterns.
-
-## How to Run the Project
-1. Install Dependencies
-pip install -r requirements.txt
-
-2. Open the Main Notebook
-Open in Jupyter or Google Colab:
-
-notebook/life_expectancy_regression.ipynb
-
-3. Replace Dataset Path (If Needed)
-
-Update the CSV path at the top of the notebook if your data folder differs.
 
 ## Future Improvements
 
