@@ -28,11 +28,8 @@ The model demonstrates:
 life-expectancy-regression/
 │
 ├── README.md
-├── notebook/
-│ └── life_expectancy_regression.ipynb
-│
-├── data/
-│ └── Life Expectancy Data.csv
+├── life_expectancy_regression.ipynb│
+├── Life Expectancy Data.csv
 │
 ├── results/
 │ ├── correlation_matrix.png
