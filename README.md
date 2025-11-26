@@ -28,7 +28,7 @@ The model demonstrates:
 life-expectancy-regression/
 │
 ├── README.md
-├── life_expectancy_regression-mlproject.ipynb
+├── life_expectancy_regression_mlproject.ipynb
 ├── Life Expectancy Data.csv
 │
 ├── results/
@@ -36,7 +36,7 @@ life-expectancy-regression/
 │   ├── learning_curve.png
 │   └── residual_plot.png
 ```
-## Repository Structure
+
 To run the project, the following Python libraries are required:
 * ```pandas```
 * ```numpy```
