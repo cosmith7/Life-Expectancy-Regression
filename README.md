@@ -28,16 +28,21 @@ The model demonstrates:
 life-expectancy-regression/
 │
 ├── README.md
-├── life_expectancy_regression.ipynb│
+├── life_expectancy_regression.ipynb
 ├── Life Expectancy Data.csv
 │
 ├── results/
-│ ├── correlation_matrix.png
-│ ├── learning_curve.png
-│ └── residual_plot.png
-│
-└── requirements.txt
+│   ├── correlation_matrix.png
+│   ├── learning_curve.png
+│   └── residual_plot.png
 ```
+## Repository Structure
+To run the project, the following Python libraries are required:
+* ```pandas```
+* ```numpy```
+* ```matplotlib```
+* ```seaborn```
+* ```scikit-learn```
 
 ## Methodology
 Data Preparation
